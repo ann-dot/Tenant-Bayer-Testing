@@ -1,0 +1,65 @@
+[
+  {
+    "id": null,
+    "name": "Existing Offer to Order Request",
+    "type": "processTitle",
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 7,
+    "name": "Building Requisition Information",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 2,
+    "name": "System Creating Requisition from Request",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 17,
+    "name": "New Supplier Onboarding",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 14,
+    "name": "Creating Requisition in SmartBuy",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 3,
+    "name": "Requisition Created in SmartBuy Notification",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 4,
+    "name": "Waiting on Requestor to Submit Requisition in SmartBuy",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 5,
+    "name": "Waiting on Requisition Approval",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 6,
+    "name": "Purchase Order Created",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  }
+]

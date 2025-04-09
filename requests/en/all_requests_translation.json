@@ -1,0 +1,542 @@
+[
+  {
+    "id": "New Supplier Onboarding",
+    "requestName": "New Supplier Onboarding",
+    "shortDescription": "New Supplier Onboarding Process",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Onboarding Details": "Onboarding Details",
+      "Quality": "Quality",
+      "Category Selection": "Category Selection",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier Company Info": "Supplier Company Info",
+      "Supplier": "Supplier",
+      "IT": "IT"
+    },
+    "engagementAttributes": {
+      "mdgRequestNumber": "mdgRequestNumber"
+    }
+  },
+  {
+    "id": "Software Demand Instruction",
+    "requestName": "Software Purchase Request",
+    "shortDescription": "Request the purchase of software, check if available through other channels, create new software demand.",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Budget": "Budget",
+      "IT": "IT",
+      "LLM Summary": "LLM Summary"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "MeAtBayer Software Ticket",
+    "requestName": "MeAtBayer Software Ticket",
+    "shortDescription": "This request allows users to create a ticket for the software purchasing process",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT",
+      "Review": "Review"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "meatBayer Content Ticketing",
+    "requestName": "me@Bayer Content Ticketing",
+    "shortDescription": "Start here for OA Scaled and Complex Price Updates",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT",
+      "Review": "Review"
+    },
+    "engagementAttributes": {
+      "Me at Bayer Ticket": "Me at Bayer Ticket"
+    }
+  },
+  {
+    "id": "OA Update Request",
+    "requestName": "OA Update Requests",
+    "shortDescription": "Start here for OA Simple Price and Header Updates",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "New Material Group Recommender",
+    "requestName": "New Material Group Recommender",
+    "shortDescription": "Test new material group recommender approach",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT",
+      "Review": "Review"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Software Demand",
+    "requestName": "Software Demand",
+    "shortDescription": "user can buy software",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT",
+      "Review": "Review"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Sudhir Onboarding",
+    "requestName": "Sudhir Onboarding",
+    "shortDescription": "New supplier onboarding",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Need": "Need",
+      "Category": "Category",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "IT": "IT",
+      "Existing": "Existing"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Change User Master Data",
+    "requestName": "Change User Master Data",
+    "shortDescription": "allows to change CompCode, PurchOrg, Site",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT",
+      "Review": "Review"
+    },
+    "engagementAttributes": {
+      "UsersNewCompanyCode": "UsersNewCompanyCode",
+      "UsersCurrentCompanyCode": "UsersCurrentCompanyCode",
+      "UserNewPurchOrg": "UserNewPurchOrg",
+      "UserNewSite": "UserNewSite",
+      "UserCurrentSite": "UserCurrentSite",
+      "UsersCurrentPurchOrg": "UsersCurrentPurchOrg"
+    }
+  },
+  {
+    "id": "Outline Agreement Header Update",
+    "requestName": "Outline Agreement Header Update",
+    "shortDescription": "IDOC",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Update details": "Update details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "IT": "IT"
+    },
+    "engagementAttributes": {
+      "OAs Impacted": "OAs Impacted"
+    }
+  },
+  {
+    "id": "Existing Offer to Order Request",
+    "requestName": "Existing Offer to Order Request",
+    "shortDescription": "Takes an existing Supplier Offer received outside of the system and converts it into a requisition and then purchase order",
+    "stepTitles": {
+      "Supplier Offer Upload": "Supplier Offer Upload",
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Select Category": "Select Category",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Budget": "Budget",
+      "IT": "IT",
+      "Review": "Review",
+      "Select Supplier": "Select Supplier",
+      "Specify Request Details": "Specify Request Details"
+    },
+    "engagementAttributes": {
+      "Smartbuy ID": "Smartbuy ID"
+    }
+  },
+  {
+    "id": "Offer Extract Test",
+    "requestName": "Offer Extract Test",
+    "shortDescription": "Use offer extraction with category recommender.",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Category": "Category",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Budget": "Budget",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Amend PR",
+    "requestName": "Amend PR",
+    "shortDescription": "PR Amendment.",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT",
+      "Review": "Review"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "OA Simple Price Update",
+    "requestName": "OA Simple Price Update",
+    "shortDescription": "Submit request",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT",
+      "Review": "Review"
+    },
+    "engagementAttributes": {
+      "Outline Agreement": "Outline Agreement"
+    }
+  },
+  {
+    "id": "Ask ORO AI",
+    "requestName": "Need Help Buying? Ask Oro AI",
+    "shortDescription": "Ask ORO AI - Your personal buying guide",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Sabih line item test",
+    "requestName": "Sabih line item test",
+    "shortDescription": "aaa",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Request Offer from Supplier",
+    "requestName": "Request Offer from Supplier",
+    "shortDescription": "Requests an offer from a Supplier and then converts it to a requisition in SmartBuy",
+    "stepTitles": {
+      "Supplier Payment Information": "Supplier Payment Information",
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Select Category": "Select Category",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Supplier Company Details": "Supplier Company Details",
+      "IT": "IT",
+      "Review": "Review",
+      "Specify Request Details": "Specify Request Details"
+    },
+    "engagementAttributes": {
+      "Smartbuy ID": "Smartbuy ID"
+    }
+  },
+  {
+    "id": "TEST",
+    "requestName": "TEST",
+    "shortDescription": "a",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Test - Sudhir",
+    "requestName": "Test - Sudhir",
+    "shortDescription": "Test - Sudhir",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "OA Scale Pricing Update",
+    "requestName": "OA Scale Pricing Update",
+    "shortDescription": "OA Scale Pricing Update",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Onboarding",
+    "requestName": "Supplier Onboarding",
+    "shortDescription": "Supplier Onboarding Test",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Company Information": "Company Information",
+      "Payment Details": "Payment Details",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Bank Fraud Process",
+    "requestName": "Bank Fraud Process",
+    "shortDescription": "Process for bank fraud",
+    "stepTitles": {
+      "Compliance": "Compliance",
+      "Documents": "Documents",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Supplier form": "Supplier form"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Procurement Request",
+    "requestName": "Procurement Request",
+    "shortDescription": "Request proposal from supplier",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT",
+      "Review": "Review"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Request Proposal from Supplier",
+    "requestName": "Request Proposal from Supplier",
+    "shortDescription": "Request Proposal from a Supplier",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT",
+      "Review": "Review"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Request with Existing Supplier Proposal",
+    "requestName": "Request with Existing Supplier Proposal",
+    "shortDescription": "Request with Existing Supplier Proposal",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Request Details": "Request Details",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT",
+      "Review": "Review"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Multi Item Quote",
+    "requestName": "Multi-Item Request",
+    "shortDescription": "Multi-Item Request",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT",
+      "Review": "Review"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Amend Requisition",
+    "requestName": "Amend Requisition",
+    "shortDescription": "amendment process",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT",
+      "Review": "Review"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Onboarding Workflow",
+    "requestName": "New supplier onboarding",
+    "shortDescription": "New supplier onboarding requests",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Need": "Need",
+      "Requester": "Requester",
+      "Details": "Details",
+      "Quality": "Quality",
+      "Supplier": "Supplier",
+      "Review": "Review",
+      "Arrangement": "Arrangement",
+      "Requirements": "Requirements"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Bayer Outline Agreement Process",
+    "requestName": "Bayer Outline Agreement Update",
+    "shortDescription": "Request to update Outline Agreement in SAP",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Capture scenario details": "Capture scenario details",
+      "IT": "IT",
+      "ServiceNow ticket details": "ServiceNow ticket details"
+    },
+    "engagementAttributes": null
+  }
+]
